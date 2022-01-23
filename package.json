@@ -1,0 +1,16 @@
+{
+  "name": "test_reviva",
+  "version": "1.0.0",
+  "description": "Test Reviva",
+  "main": "index.php",
+  "scripts": {
+    "start": "index.php"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AntsugDev/test_reviva.git"
+  },
+  "author": "Antonio Sugamele",
+  "license": "ISC"
+  
+}
